@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><preferences stamp="25">
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="26">
 	<com.4d>
 		<interface>
 			<user can_change_password="true" display_list="false" print_progress="false"/>
@@ -41,7 +41,7 @@
 		</database>
 		<compiler>
 			<options compilation_path="3" fat_binary="true" target="all"/>
-			<typage default_for_button="2"/>
+			<typage default_for_button="2" default_for_numeric="1"/>
 			<method_suffix arrays="" interprocess_arrays="" interprocess_variables="" methods="" variables=""/>
 		</compiler>
 		<general execute_host_database_event="true">
